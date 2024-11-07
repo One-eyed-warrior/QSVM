@@ -1,1 +1,1 @@
-mini project for coursework in 21CSE306J Quantum Computation
+Mini project for coursework in 21CSE306J Quantum Computation
